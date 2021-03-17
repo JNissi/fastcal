@@ -1,0 +1,2 @@
+# fastcal
+Calendar for Pinephone
